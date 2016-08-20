@@ -14,6 +14,8 @@ The following files are provided:
 
 - airspy_m2_lrpt_rx_10msps.grc   (this is the LRPT RX script for Airspy in 10msps sampling mode)  
 - airspy_m2_lrpt_rx.grc          (same as above, but in 2.5msps mode for less CPU load)
+- fcd_m2_lrpt_rx.grc		 (this is the LRPT RX script for FunCube Pro+ dongle)
+- fcd_m2_lrpt_rx.py		 (Same as above, in Python format)
 
 
 Usage:
